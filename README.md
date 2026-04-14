@@ -12,7 +12,11 @@ A simple menu-driven C++ project to generate different patterns using loops.
 - C++
 - Loops & Conditional Statements
 
+
 ## ▶️ How to Run
-```bash
-g++ pattern_generator.cpp
-./a.out
+
+1. Compile:
+g++ pattern-Generator-cpp.cpp -o output
+
+2. Run:
+./output
